@@ -1,5 +1,5 @@
 {
-    "name": "dailymotion/sdk",
+    "name": "mmockelyn/dailymotion-php-sdk",
     "license": "MIT",
     "type": "library",
     "description": "Dailymotion PHP SDK",
